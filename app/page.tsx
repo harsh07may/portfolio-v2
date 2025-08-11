@@ -29,17 +29,6 @@ export default function Page() {
           Let&apos;s connect — I&apos;m always open to sharing ideas,
           collaborating, and growing together. 🚀
         </p>
-        <p>
-          Built and maintained by{" "}
-          <a
-            href="https://harsh07may.vercel.app/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Harsh
-          </a>
-          .
-        </p>
       </div>
       <div className="z-10 flex min-h-64 items-center gap-2.5">
         <div
